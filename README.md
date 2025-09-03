@@ -130,7 +130,7 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
   <a href="http://www.linkedin.com/in/sendhymaulaammarulloh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sendhymaula@gmail.com">
+  <a href="sendhymaula@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sendhy12">
