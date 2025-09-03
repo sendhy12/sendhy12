@@ -82,7 +82,7 @@ Collection of useful Python scripts for automating daily tasks, data processing,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sendhy12&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sendhy12&theme=algolia" alt="GitHub Streak"/>
 </div>
 
 ---
