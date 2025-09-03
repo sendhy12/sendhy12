@@ -127,16 +127,19 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/sendhymaulaammarulloh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="http://www.linkedin.com/in/sendhymaulaammarulloh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Connect with me!"/>
   </a>
-  <a href="mailto:sendhymaula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:sendhymaula@gmail.com?subject=Hello%20Sendhy!&body=Hi%20Sendhy,%20I%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect.">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - Send me a message!"/>
   </a>
-  <a href="https://instagram.com/senma.am">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/sendhy12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Follow me!"/>
   </a>
 </p>
+<div align="center">
+  <p><em>💬 Feel free to reach out for collaboration, questions, or just to say hi!</em></p>
+</div>
 
 ---
 
