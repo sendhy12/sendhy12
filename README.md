@@ -77,12 +77,19 @@ Collection of useful Python scripts for automating daily tasks, data processing,
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sendhy12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sendhy12&layout=compact&theme=algolia"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sendhy12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sendhy12&layout=compact&theme=algolia" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sendhy12&theme=algolia" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sendhy12&theme=algolia" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
