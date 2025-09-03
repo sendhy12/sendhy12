@@ -130,10 +130,10 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
   <a href="http://www.linkedin.com/in/sendhymaulaammarulloh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Connect with me!"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sendhymaulaammarulloh@gmail.com&su=Hello%20Sendhy!&body=Hi%20Sendhy,%20I%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect." target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sendhymaula@gmail.com&su=Hello%20Sendhy!&body=Hi%20Sendhy,%20I%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect." target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - Send me a message!"/>
   </a>
-  <a href="https://instagram.com/sendhy12" target="_blank">
+  <a href="https://instagram.com/senma.am" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Follow me!"/>
   </a>
 </p>
