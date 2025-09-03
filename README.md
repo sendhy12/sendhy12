@@ -144,7 +144,7 @@ I'm a passionate **Software Developer** and **AI Enthusiast** who recently gradu
 </div>
 
 <div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💫 "The human spirit must prevail over technology." - Albert Einstein</h3>
 </div>
 
 ---
