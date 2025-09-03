@@ -60,17 +60,17 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
 
 ## 🔥 Featured Projects
 
-### 🎯 [Data Analysis Dashboard](https://github.com/sendhy12/data-analysis-dashboard)
-Interactive dashboard for data visualization and analysis using Python, Pandas, and Streamlit. Perfect for exploring datasets and generating insights.
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/2196F3/FFFFFF?text=🚀+Exciting+Projects+Coming+Soon!" alt="Projects Coming Soon"/>
+</div>
 
-### 🤖 [Machine Learning Model Collection](https://github.com/sendhy12/ml-model-collection)
-Collection of machine learning models and algorithms implemented from scratch, including classification, regression, and clustering techniques.
+### 📌 What's Coming:
+- 🎯 **Data Analysis Dashboard** - Interactive visualization platform
+- 🤖 **Machine Learning Models** - AI/ML project collection  
+- 📊 **Data Science Projects** - Real-world data analysis
+- 🚀 **Python Automation** - Workflow optimization scripts
 
-### 📊 [Sales Data Analysis](https://github.com/sendhy12/sales-data-analysis)
-Comprehensive analysis of sales data with interactive visualizations, trend analysis, and business insights using Python and various data science libraries.
-
-### 🚀 [Python Automation Scripts](https://github.com/sendhy12/python-automation)
-Collection of useful Python scripts for automating daily tasks, data processing, and workflow optimization.
+> 💡 Stay tuned! I'm currently working on some exciting projects that showcase my skills in Python, Data Science, and AI. Check back soon for updates!
 
 ---
 
@@ -88,6 +88,7 @@ Collection of useful Python scripts for automating daily tasks, data processing,
     </tr>
   </table>
 </div>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sendhy12&theme=algolia" alt="Profile Summary" width="100%"/>
 </div>
@@ -97,10 +98,10 @@ Collection of useful Python scripts for automating daily tasks, data processing,
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sendhymaulaammarulloh/">
+  <a href="http://www.linkedin.com/in/sendhymaulaammarulloh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sendhy.maula@gmail.com">
+  <a href="mailto:sendhymaula@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sendhy12">
