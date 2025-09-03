@@ -8,12 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing my studies at **Universitas Sangga Buana** (since 2021) while actively participating in the **LaskarAI** program at Dicoding. I love exploring the intersection of technology and data to solve real-world problems.
+I'm a passionate **Software Developer** and **AI Enthusiast** who recently graduated from **Universitas Sangga Buana** in 2025. Currently participating in the **LaskarAI** program at Dicoding to further enhance my skills in artificial intelligence and data science. I love exploring the intersection of technology and data to solve real-world problems.
 
+- 🎓 Fresh Graduate from Universitas Sangga Buana (Class of 2025)
 - 🔭 Currently working on AI and Data Analysis projects
 - 🌱 Learning advanced Machine Learning and Deep Learning techniques
 - 💡 Interested in Software Development, Data Science, and Artificial Intelligence
-- 🎓 Continuously upskilling through various certification programs
+- 📚 Continuously upskilling through various certification programs
 - 📍 Based in Indonesia
 
 ---
@@ -64,6 +65,7 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
   <h3>🚀 Exciting Projects Coming Soon! 🚀</h3>
   <p><em>Currently building amazing projects to showcase here</em></p>
 </div>
+
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -88,18 +90,11 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
     </td>
   </tr>
 </table>
+
 <div align="center">
   <p>💡 <em>Stay tuned! I'm currently working on some exciting projects that showcase my skills in Python, Data Science, and AI.</em></p>
   <p>🔄 <strong>Check back soon for updates!</strong></p>
 </div>
-
-### 📌 What's Coming:
-- 🎯 **Data Analysis Dashboard** - Interactive visualization platform
-- 🤖 **Machine Learning Models** - AI/ML project collection  
-- 📊 **Data Science Projects** - Real-world data analysis
-- 🚀 **Python Automation** - Workflow optimization scripts
-
-> 💡 Stay tuned! I'm currently working on some exciting projects that showcase my skills in Python, Data Science, and AI. Check back soon for updates!
 
 ---
 
