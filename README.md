@@ -61,7 +61,36 @@ I'm a passionate **Software Developer** and **AI Enthusiast** currently pursuing
 ## 🔥 Featured Projects
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/2196F3/FFFFFF?text=🚀+Exciting+Projects+Coming+Soon!" alt="Projects Coming Soon"/>
+  <h3>🚀 Exciting Projects Coming Soon! 🚀</h3>
+  <p><em>Currently building amazing projects to showcase here</em></p>
+</div>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h4>🎯</h4>
+      <p><strong>Data Analysis<br>Dashboard</strong></p>
+      <p><sub>Interactive visualization platform</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🤖</h4>
+      <p><strong>Machine Learning<br>Models</strong></p>
+      <p><sub>AI/ML project collection</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h4>📊</h4>
+      <p><strong>Data Science<br>Projects</strong></p>
+      <p><sub>Real-world data analysis</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h4>🚀</h4>
+      <p><strong>Python<br>Automation</strong></p>
+      <p><sub>Workflow optimization scripts</sub></p>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <p>💡 <em>Stay tuned! I'm currently working on some exciting projects that showcase my skills in Python, Data Science, and AI.</em></p>
+  <p>🔄 <strong>Check back soon for updates!</strong></p>
 </div>
 
 ### 📌 What's Coming:
